@@ -1,2 +1,2 @@
 # Makefile
-Practicing makefiles to ensure i can compile correctly
+Implementation of a Makefile including proper removal of extra files.
